@@ -15,7 +15,7 @@
 - Algernon
 
 
-### Intermediate (0/26)
+### 🟡 Intermediate (0/26)
 #### Linux
 - ClamAV
 - Pelican
@@ -47,7 +47,7 @@
 #### Windows
 - Slort
 
-### Hard (0/25)
+### 🔴 Hard (0/25)
 #### Linux
 - Pebbles
 - Nukem
@@ -78,7 +78,7 @@
 - Fish
 
 
-### Very Hard (0/16)
+### 🤯 Very Hard (0/16)
 #### Linux
 - Hetemit
 - Clue
@@ -99,7 +99,7 @@
 - Hepet
 - Monster
 
-### AD (0/6)
+### 🔵 AD (0/6)
 #### Hard
 - Hutch
 - Vault
