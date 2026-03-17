@@ -1,22 +1,22 @@
-# WriteUps-PGP-OffSec
+# WriteUps-PGP-OffSec (For OSCP Practice) - 0/77
 
 
 ## 🧩 Box Lists
 
 
-### 🟢 Easy (0/4)
-Linux
+### 🟢 Easy (0/5)
+#### Linux
 Levram
 Gaara
 
-Windows
+#### Windows
 Kevin
 Internal
 Algernon
 
 
-### Intermediate
-Linux
+### Intermediate (0/26)
+#### Linux
 ClamAV
 Pelican
 Payday
@@ -44,11 +44,11 @@ Potato
 BBScute
 
 
-Windows
+#### Windows
 Slort
 
-### Hard
-Linux
+### Hard (0/25)
+#### Linux
 Pebbles
 Nukem
 Sybaris
@@ -64,7 +64,7 @@ Amaterasu
 Stapler
 Blogger
 
-Windows
+#### Windows
 Jacko
 Craft
 Squid
@@ -78,33 +78,33 @@ Mice
 Fish
 
 
-### Very Hard
-Linux
-Hetemit - Very Hard
-Clue - Very Hard
-Postfish - Very Hard
-Hawat - Very Hard
-Apex - Very Hard
-Hunit - Very Hard
-Readys - Very Hard
-Marketing - Very Hard
-Zipper - Very Hard
-Scrutiny - Very Hard
-SPX - Very Hard
-Mantis - Very Hard
-BitForge - Very Hard
-WallpaperHub - Very Hard
+### Very Hard (0/16)
+#### Linux
+Hetemit
+Clue
+Postfish
+Hawat
+Apex
+Hunit
+Readys
+Marketing
+Zipper
+Scrutiny
+SPX
+Mantis
+BitForge
+WallpaperHub
 
-Windows
-Hepet - Very Hard
-Monster - Very Hard
+#### Windows
+Hepet
+Monster
 
-### AD
-Hard
+### AD (0/6)
+#### Hard
 Hutch
 Vault
 
-Very Hard
+#### Very Hard
 Access
 Resourced
 Nagoya
