@@ -21,7 +21,7 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 ## 🧩 Box Lists
 
 
-### 🟢 Easy (3/6)
+### 🟢 Easy (6/6)
 #### Linux
 - Levram (Completed)
 - Gaara (Completed)
@@ -33,10 +33,10 @@ For HTB write-ups please visit to: https://github.com/Ch4os1/WriteUps-HTB
 - Algernon (Completed)
 
 
-### 🟡 Intermediate (0/25)
+### 🟡 Intermediate (2/25)
 #### Linux
 - Pelican (Completed)
-- Payday
+- Payday (Completed)
 - Snookums
 - Bratarina
 - Nibbles
