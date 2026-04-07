@@ -10,7 +10,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 | Category                          | Completed | Progress        |
 | --------------------------------- | --------- | --------------- |
 | 🟢 Easy                           | 6 / 6     | ██████████ 100% |
-| 🟡 Intermediate                   | 12 / 24   | █████ 50%       |
+| 🟡 Intermediate                   | 23 / 23   | ██████████ 100% |
 | 🔴 Hard                           | 0 / 25    | 0%              |
 | 🤯 Very Hard                      | 0 / 16    | 0%              |
 | 🔵 AD                             | 0 / 7     | 0%              |
@@ -34,7 +34,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Algernon (Completed)
 
 
-### 🟡 Intermediate (12/24)
+### 🟡 Intermediate (12/23)
 #### Linux
 - Pelican (Completed)
 - Payday (Completed)
@@ -48,19 +48,18 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Sorcerer (Completed)
 - Astronaut (Completed)
 - Bullybox (Completed)
-- Exfiltrated
-- QuackerJack 
-- Wombo
-- Flu
-- Mzeeav
-- Ochima
-- SpiderSociety
-- FunboxEasyEnum
-- Loly
-- Potato
-- BBScute
+- Exfiltrated (Completed)
+- QuackerJack (Completed)
+- Wombo (Completed)
+- Flu (Completed)
+- Mzeeav (Completed)
+- Ochima (Completed)
+- SpiderSociety (Completed)
+- FunboxEasyEnum (Completed)
+- Loly (Completed)
+- Potato (Completed)
 #### Windows
-- Slort
+- Slort (Completed)
 
 ### 🔴 Hard (0/25)
 #### Linux
@@ -78,7 +77,8 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Amaterasu
 - Stapler
 - Blogger
-
+- Blackgate
+- InsantiyHosting
 #### Windows
 - Jacko
 - Craft
@@ -91,7 +91,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - DVR4
 - Mice
 - Fish
-
+- Osaka
 
 ### 🤯 Very Hard (0/16)
 #### Linux
@@ -125,7 +125,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Resourced
 - Nagoya
 - Hokkaido
-
+- Nara
 ### ⛓️‍💥 Chains (0/8) 
 - Trusted
 - Reflection
@@ -137,10 +137,8 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Tengu
 
 ## Additional Boxes
-### Linux
+### Linux (Easy - Intermediate)
 - Twiggy
-- Exfiltrated
-- Blackgate
 - Booleann
 - Codo
 - Hub
@@ -156,7 +154,6 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - Sea
 - Election 1
 - Monitoring
-- InsantiyHosting
 - Vegeta 1
 - SoSimple
 - DC-9
@@ -167,9 +164,7 @@ For HTB write-ups please visit: https://github.com/Ch4os1/WriteUps-HTB
 - DriftingBlue6
 - Sams
 - BRTSys2.1
-### Windows
-- Nara
-- Osaka
+
 ## References
 
 https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview
